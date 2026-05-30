@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web development projects<br>using html, css, javascript, node.js, and express.js.<br><br>I'm looking to collaborate on open source and full stack <br>development projects.<br><br>I,m looking for help with advanced backend development<br>and database design.<br><br>I'm currently learning ract.js , express.js, mongoDB, <br>and tailwind css.<br><br>Ask me about html, css, javascript, node.js, express.js, and githup.<br><br>Fun fact: I enjoy solving coding problems and building real-world<br>projects.
+I'm currently working on web development projects<br>using html, css, javascript, node.js, and express.js.<br><br>I'm looking to collaborate on open source and full stack <br>development projects.<br><br>I,m looking for help with advanced backend development<br>and database design.<br><br>I'm currently learning ract.js , express.js, mongodb, <br>and tailwind css.<br><br>Ask me about html, css, javascript, node.js, express.js, and githup.<br><br>Fun fact: I enjoy solving coding problems and building real-world<br>projects.
 
 
 ## 🌐 Socials:
