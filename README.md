@@ -1,16 +1,36 @@
-# 💫 About Me:
-🚀 **Currently working on:** Web development projects using **HTML, CSS, JavaScript, Node.js, and Express.js**.
+# 💫 About Me
 
-🤝 **Open to collaborating on:** Open source projects and full stack web development.
+👋 Hi, I'm **Vaishnav Patil**, a passionate **Full-Stack Developer and DevOps enthusiast** who enjoys building scalable applications and automating software delivery.
 
-📚 **Currently learning:** React.js, Express.js, MongoDB, and Tailwind CSS to build modern, scalable web applications.
+🚀 **Currently working on:**
+Full-stack and DevOps projects using **React.js, Node.js, Express.js, MongoDB, Docker, Kubernetes, and CI/CD**.
 
-💡 **Looking for help with:** Advanced backend development, database design, and system architecture.
+🤝 **Open to collaborating on:**
+Open-source projects, full-stack web applications, cloud projects, and DevOps automation.
 
-💬 **Ask me about:** HTML, CSS, JavaScript, Node.js, Express.js, Git, and GitHub.
+📚 **Currently learning:**
+**Kubernetes, GitOps, AWS, CI/CD, monitoring, cloud architecture, and DevSecOps** to build reliable and scalable systems.
 
-⚡ **Fun fact:** I enjoy solving coding challenges and building real-world projects that improve my development skills.
+💡 **Looking for help with:**
+Advanced backend development, cloud architecture, Kubernetes, system design, and DevOps best practices.
 
+💬 **Ask me about:**
+**HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Git, GitHub, Docker, Kubernetes, Jenkins, and CI/CD.**
+
+🛠️ **Tech Stack:**
+
+* **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **DevOps:** Git, GitHub, Jenkins, Docker, Kubernetes, GitOps
+* **Cloud:** AWS
+* **Monitoring:** Prometheus, Grafana
+
+⚡ **Fun fact:**
+I enjoy solving coding challenges, learning new technologies, and building real-world projects that strengthen my development and DevOps skills.
+
+🎯 **Career Goal:**
+To become a skilled **Full-Stack Developer / DevOps Engineer** and contribute to building scalable, secure, and automated software systems.
 
 
 ## 🌐 Socials:
